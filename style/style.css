@@ -1,0 +1,17 @@
+body {
+    background-color: pink;
+}
+
+table {
+    border: 1px solid black;
+}
+
+table * {
+    border: 1px solid black;
+    background-color: white;
+}
+
+td {
+    width: 200px;
+    padding: 10px;
+}
